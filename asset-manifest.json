@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/radiant-cleaning/static/css/main.430d8dd5.css",
+    "main.js": "/radiant-cleaning/static/js/main.c9595407.js",
+    "static/js/787.5ea957b3.chunk.js": "/radiant-cleaning/static/js/787.5ea957b3.chunk.js",
+    "static/media/fa-solid-900.ttf": "/radiant-cleaning/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/radiant-cleaning/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/radiant-cleaning/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/radiant-cleaning/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/radiant-cleaning/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/radiant-cleaning/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/radiant-cleaning/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/radiant-cleaning/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/radiant-cleaning/index.html",
+    "main.430d8dd5.css.map": "/radiant-cleaning/static/css/main.430d8dd5.css.map",
+    "main.c9595407.js.map": "/radiant-cleaning/static/js/main.c9595407.js.map",
+    "787.5ea957b3.chunk.js.map": "/radiant-cleaning/static/js/787.5ea957b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430d8dd5.css",
+    "static/js/main.c9595407.js"
+  ]
+}
